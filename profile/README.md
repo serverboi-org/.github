@@ -5,12 +5,12 @@ Welcome to the **serverboi.org** Github organization - [serverboi.org](https://s
 ## Key Projects ⚡
 
 ### 1. Real Art AI
-Real Art AI is a fullstack AI art generator that I've developed for both iOS and Android platforms.
+Real Art AI is a fullstack application stable-diffusion wrapper for AI image generation that I've developed for both iOS and Android platforms.
 
-- [Real Art AI Repository](https://github.com/serverboi-org/real-art-ai)
+- [Real Art AI Repository](https://github.com/JakeTurner616/Real-Art-AI)
 
 ### 2. Infinity Library
-Infinity Library is a cross-platform book downloader for desktop. It provides a seamless experience for downloading and managing digital book collections.
+Infinity Library is a cross-platform book downloader and pdf search aggregate for desktop computers. It provides a seamless experience for downloading and managing digital book collections.
 
 - [Infinity Library Repository](https://github.com/serverboi-org/infinity-library)
 
